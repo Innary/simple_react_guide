@@ -62,7 +62,7 @@ In the project root, create a file called `.babelrc`. Here, we’re telling babe
 npm install --save-dev webpack@4.19.1 webpack-cli@3.1.1 webpack-dev-server@3.1.8 style-loader@0.23.0 css-loader@1.0.0 babel-loader@8.0.2
 ```
 
-Create a new file at the root of the project called webpack.config.js. This file exports an object with webpack’s configuration.
+Create a new file at the root of the project called `webpack.config.js`. This file exports an object with webpack’s configuration.
 
 5. React
 
